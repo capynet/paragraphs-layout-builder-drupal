@@ -1,2 +1,4 @@
-./vendor
-./web
+vendor
+web
+.gitattributes
+.editorconfig
