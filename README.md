@@ -1,6 +1,7 @@
 # Setup project
 * Get source code `ddev composer install`
 * Install the site `ddev drush site:install --db-url=mysql://db:db@ddev-paragraphs-layout-builder-db/db --account-pass=admin -y`
+* Enable needed modules: `ddev drush en admin_toolbar nppe_pel -y`
 
 ## Useful info:
 User/pass: `admin`/`admin`
