@@ -12,6 +12,19 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "capynet/paragraphs-layout-builder",
+                "type": "drupal-module",
+                "version": "v1.0",
+                "source": {
+                    "url": "git@github.com:capynet/paragraphs-layout-builder.git",
+                    "type": "git",
+                    "reference": "main"
+                }
+            }
         }
     ],
     "require": {
