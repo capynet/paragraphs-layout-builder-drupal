@@ -18,7 +18,7 @@
             "package": {
                 "name": "capynet/paragraphs-layout-builder",
                 "type": "drupal-module",
-                "version": "v1.0",
+                "version": "dev-main",
                 "source": {
                     "url": "git@github.com:capynet/paragraphs-layout-builder.git",
                     "type": "git",
@@ -28,7 +28,7 @@
         }
     ],
     "require": {
-        "capynet/paragraphs-layout-builder": "^1.0",
+        "capynet/paragraphs-layout-builder": "dev-main",
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.0",
         "drupal/core-composer-scaffold": "^9.3",
@@ -40,7 +40,7 @@
     "conflict": {
         "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "sort-packages": true,
