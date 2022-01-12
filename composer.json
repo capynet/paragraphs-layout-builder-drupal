@@ -30,6 +30,7 @@
     "require": {
         "capynet/paragraphs-layout-builder": "^1.0",
         "composer/installers": "^1.9",
+        "drupal/admin_toolbar": "^3.0",
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
