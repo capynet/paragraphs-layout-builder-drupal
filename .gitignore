@@ -2,3 +2,4 @@ vendor
 web
 .gitattributes
 .editorconfig
+*.sql
