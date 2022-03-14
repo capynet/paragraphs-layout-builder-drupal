@@ -16,19 +16,19 @@
         {
             "type": "package",
             "package": {
-                "name": "capynet/paragraphs-layout-builder",
+                "name": "capynet/merlb",
                 "type": "drupal-module",
                 "version": "dev-main",
                 "source": {
-                    "url": "git@github.com:capynet/paragraphs-layout-builder.git",
+                    "url": "git@github.com:capynet/drupal-multivalued-entity-reference-layout-builder.git",
                     "type": "git",
-                    "reference": "main"
+                    "reference": "v2"
                 }
             }
         }
     ],
     "require": {
-        "capynet/paragraphs-layout-builder": "dev-main",
+        "capynet/merlb": "dev-main",
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.0",
         "drupal/core-composer-scaffold": "^9.3",
