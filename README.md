@@ -8,4 +8,6 @@
 
 User/pass: `admin`/`admin`
 
-Since this site if for integrating paragraphs-layout-builder module, every time you need a fresh version of it, use `ddev composer require capynet/paragraphs-layout-builder --no-cache`
+### Developing:
+
+If you are developing uncomment `web/sites/default/settings.php` to invalidate cache layers to avoid unexpected behaviors.
