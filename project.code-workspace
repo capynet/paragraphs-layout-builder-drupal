@@ -1,9 +1,11 @@
 {
     "folders": [
         {
+            "name": "Merlb",
             "path": "web/modules/contrib/merlb"
         },
         {
+            "name": "Drupal",
             "path": "."
         }
     ],
